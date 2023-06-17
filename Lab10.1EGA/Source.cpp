@@ -12,7 +12,7 @@
 using namespace std;
 int K = 15; // Количество Предметов
 int PopSize;//Размер популяций
-int Wmax = 96; //Максимальный вес ранца
+int Wmax = 96; //Максимальный вес ранца!
 int mutationProb = 15; // Вероятность мутации
 
 vector<vector<double>> itemsAll1;
